@@ -1,2 +1,2 @@
 #!/bin/bash
-cppython ports_status.py
+cppython e300_run_dark.py
