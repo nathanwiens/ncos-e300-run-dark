@@ -1,11 +1,11 @@
 Application Name
 ================
-ports_status
+e300_run_dark
 
 
 Application Version
 ===================
-0.7
+0.6
 
 
 NCOS Devices Supported
@@ -19,12 +19,11 @@ External Requirements
 
 Application Purpose
 ===================
-This application will set the device description to visually show
-the up/down status of modem and ethernet ports.
+This SDK app disables the LED light bar on E-series Cradlepoint routers
 
 
 Expected Output
 ===============
-Description updated
-Log printed
+Light bar turned off
+May temporarily re-enable during config changes but should quickly disable again
 
